@@ -1,5 +1,13 @@
 # Usage
 
+## discord
+add if needed: **riksa#6116**
+
+## self assesment
+Part 1: Filip
+Part 2: Riku K
+
+
 ### Part 1
 
 1. **Install Backend Dependencies**  
